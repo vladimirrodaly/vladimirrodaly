@@ -10,7 +10,7 @@
 
 ![Vladimir GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirrodaly&show_icons=true&theme=onedark)
 
-## Tecnologias que eu uso no meu dia !
+## Tecnologias Que Eu Uso No Meu Dia!
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
@@ -23,7 +23,7 @@
 </div><br/>
 
 
-*Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação, porque através a tecnologia o mundo evolui e transformar vidas.*
+*Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação, porque através da tecnologia o mundo evoluir e transformar vidas.*
 
 ### Próximos passos para o futuro:
 •⁠  ⁠[Criando Condeudo em Breve - Francês ](https://www.youtube.com/channel/UCH_QMFvdxC1Qzelm9PEEm_w)<br/>
