@@ -17,7 +17,7 @@ I'm a Frontend, I've already used Swift to develop a mobile application. Current
 
 </div>
 <div>
-## My Skills
+<h1> My Skills</h1>
 
 #### Main Stack:
 
