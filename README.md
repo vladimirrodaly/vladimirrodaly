@@ -43,11 +43,12 @@ I'm a Frontend, I've already used Swift to develop a mobile application. Current
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Xcode](https://img.shields.io/badge/Xcode-4285F4?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
+
+### Operational systems:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![MacOs](https://img.shields.io/badge/macos-14354C?style=for-the-badge&logo=macos&logoColor=yellow)&nbsp;
 ![Windows](https://img.shields.io/badge/windows-14354C?style=for-the-badge&logo=windows&logoColor=red)&nbsp;
-![Xcode](https://img.shields.io/badge/Xcode-4285F4?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
-
 
 &nbsp;
 &nbsp;
