@@ -16,7 +16,7 @@ I'm a Frontend, I've already used Swift to develop a mobile application. Current
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=vladimirrodaly&show_icons=true&theme=onedark"
 
 </div>
-
+<div>
 ## My Skills
 
 #### Main Stack:
@@ -49,9 +49,7 @@ I'm a Frontend, I've already used Swift to develop a mobile application. Current
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![MacOs](https://img.shields.io/badge/macos-14354C?style=for-the-badge&logo=macos&logoColor=yellow)&nbsp;
 ![Windows](https://img.shields.io/badge/windows-14354C?style=for-the-badge&logo=windows&logoColor=red)&nbsp;
-
-&nbsp;
-&nbsp;
+</div>
 
 ## Contacts:
 
